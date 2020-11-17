@@ -1,4 +1,4 @@
-# mutliple-cause-mortality
+# multiple-cause-mortality
 Pyspark analysis of CDC's multiple cause mortality data
 
 This project was completed as part of UVA's Big Data Analytics course (Fall 2020) and focuses on using PySpark to explore and anylyze CDC Multiple Cause Mortality Statistics (data source: https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#Mortality_Multiple).
