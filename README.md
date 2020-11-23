@@ -16,4 +16,4 @@ The repository includes the following files:
 - clustering_analysis.ipynb: A jupyter notebook in which the clusters created in MCOD_clustering.ipynb are analyzed. 
 
 
-Project Status: In progress
+Project Status: Completed
