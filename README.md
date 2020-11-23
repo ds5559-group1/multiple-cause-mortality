@@ -7,7 +7,7 @@ The repository includes the following files:
 
 - Parsing.ipynb: A jupyter notebook which reads in raw txt. files from 2014-2018, slices records into strings based on tape location, and converts into dataframes.
 - SparkInit: A jupyter notebook which preprocesses mortality records, creates a stratified sample of ~2.7M records, and splits (80/20) into training and test sets.
-- EDA: A jupyter notebook that explores the training data with some basic visualizations.
+- Mortality_EDA: A jupyter notebook that explores the training data with some basic visualizations.
 - MCOD_clustering_clean.ipynb: A jupyter notebook that further explores the training data by creating a k-means cluster model using the first 3 causes of death listed.
 - Classification_Models.ipynb: A jupyter notebook that fits decision tree, random forest, naive bayes, and MLR models to predict 1st listed cause of death using age, race, marital status, education, sex.
 - Classification_Models_DS.ipynb: A jupyter notebook that fits decision tree, random forest, naive bayes, and MLR models to predict 1st listed cause of death using age, race, marital status, education, sex. This training data is downsampled. 
