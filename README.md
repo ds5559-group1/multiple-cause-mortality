@@ -11,8 +11,7 @@ The repository includes the following files:
 - MCOD_clustering_clean.ipynb: A jupyter notebook that further explores the training data by creating a k-means cluster model using the first 3 causes of death listed.
 - Classification_Models.ipynb: A jupyter notebook that fits decision tree, random forest, naive bayes, and MLR models to predict 1st listed cause of death using age, race, marital status, education, sex.
 - Classification_Models_DS.ipynb: A jupyter notebook that fits decision tree, random forest, naive bayes, and MLR models to predict 1st listed cause of death using age, race, marital status, education, sex. This training data is downsampled. 
-- LogRegModel_Demog.ipynb: A jupyter notebook that develops a multinomial logistic regression model to predict 1st listed cause of death using age, race, marital status, education, sex.
-- secondare_cause_final.ipynb: A jupyter notebook that develops a multinomial logistic regression model to predict 2st listed cause of death using age, race, education, and 1st listed cause of death.
+- secondary_cause_final.ipynb: A jupyter notebook that develops a multinomial logistic regression model to predict 2st listed cause of death using age, race, education, and 1st listed cause of death.
 - MCOD_clustering.ipynb: A jupyter notebook that develops a K-means clustering model for the first three causes of death. 
 - clustering_analysis.ipynb: A jupyter notebook in which the clusters created in MCOD_clustering.ipynb are analyzed. 
 
