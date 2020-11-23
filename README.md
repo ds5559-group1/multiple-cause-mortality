@@ -12,6 +12,8 @@ The repository includes the following files:
 - TreeModels_DownSample_TDP.ipynb: A jupyter notebook that develops a decision tree model to predict 1st listed cause of death using age, race, marital status, education, sex.
 - LogRegModel_Demog.ipynb: A jupyter notebook that develops a multinomial logistic regression model to predict 1st listed cause of death using age, race, marital status, education, sex.
 - secondare_cause_final.ipynb: A jupyter notebook that develops a multinomial logistic regression model to predict 2st listed cause of death using age, race, education, and 1st listed cause of death.
+- MCOD_clustering.ipynb: A jupyter notebook that develops a K-means clustering model for the first three causes of death. 
+- clustering_analysis.ipynb: A jupyter notebook in which the clusters created in MCOD_clustering.ipynb are analyzed. 
 
 
 Project Status: In progress
